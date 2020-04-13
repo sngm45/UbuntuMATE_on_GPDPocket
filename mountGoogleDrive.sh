@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-cd /home/ngmrsng
+cd $HOME
 google-drive-ocamlfus
 google-drive-ocamlfus ./GoogleDrive
 df -h
