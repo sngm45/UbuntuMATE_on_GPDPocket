@@ -1,0 +1,18 @@
+remove shift = Shift_R
+remove mod1 = Alt_L Alt_R
+remove mod4 = Super_L
+
+keycode  22 = Delete NoSymbol Delete
+keycode  23 = Caps_Lock
+keycode  48 = XF86ScrollDown
+keycode  49 = Menu NoSymbol Menu
+keycode  50 = Shift_L NoSymbol Shift_L
+keycode  62 = XF86ScrollUp
+keycode  66 = Tab
+keycode  64 = Hiragana_Katakana NoSymbol Hiragana_Katakana
+keycode 108 = grave asciitilde grave asciitilde
+keycode 105 = apostrophe quotedbl apostrophe quotedbl
+keycode 119 = BackSpace BackSpace BackSpace BackSpace
+keycode 133 = Alt_L
+keycode 135 = Super_L NoSymbol Super_L
+
