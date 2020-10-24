@@ -1,3 +1,5 @@
+# sudo mv Xmodmap.txt .Xmodmap
+
 remove shift = Shift_R
 remove mod1 = Alt_L Alt_R
 remove mod4 = Super_L
